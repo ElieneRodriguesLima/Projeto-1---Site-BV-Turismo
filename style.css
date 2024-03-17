@@ -1,0 +1,267 @@
+/*Home*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h1{
+    color: #378890;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0px 10px;
+}
+
+.imagem_logo{
+    padding: 0px 10px;
+}
+
+.navegadores{
+   padding: 0;
+   text-align: center;
+   position: absolute;
+   top: 22%;
+   right: 15%;
+ 
+}
+
+.navegadores li{
+    list-style: none;
+    display: inline-block;
+}
+
+.navegadores a{
+    background-color: cccc;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.navegadores a:hover{
+    background-color: #378890;
+    color: white;
+}
+
+
+.imagem_principal{
+    padding: 0px 250px;
+}
+
+.texto{
+    text-align: center;
+}
+
+/* Contato */
+
+.navegadores_c{
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 6%;
+    right: 30%;
+}
+
+.navegadores_c li{
+    list-style: none;
+    display: inline-block;
+}
+
+.navegadores_c a{
+    background-color: cccc;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.navegadores_c a:hover{
+    background-color: #378890;
+    color: white;
+}
+
+.container {
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="date"],
+select,
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+/*Destino*/
+
+h1{
+    color: #378890;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0px 10px;
+}
+
+.navegadores_dest{
+    padding: 0;
+    text-align: center;
+    position: absolute;
+    top: 24%;
+    right: 13%;
+ 
+ }
+ 
+ .navegadores_dest li{
+     list-style: none;
+     display: inline-block;
+ }
+ 
+ .navegadores_dest a{
+     background-color: cccc;
+     display: block;
+     text-decoration: none;
+     padding: 5px;
+ }
+ 
+ .navegadores_dest a:hover{
+     background-color: #378890;
+     color: white;
+ }
+ 
+ .container_dest{
+     max-width: 500px;
+     padding: 20px;
+     margin: auto 15%;
+     align-items: center;
+ }
+ 
+ table {
+     width: 80%;
+     border-collapse: collapse;
+ }
+ 
+ .destino {
+     background-color: #fff;
+     padding: 20px;
+     border-radius: 5px;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ 
+ .destino img {
+     max-width: 200px;
+     max-height:250px;
+     width: auto;
+     height: auto;
+     border-radius: 5px;
+     margin-bottom: 10px;
+     align-items: center;
+ }
+ 
+ .destino h2 {
+     margin-top: 0;
+     font-size: 20px;
+     color: #333;
+ }
+ 
+ .destino p {
+     color: #666;
+ }
+ 
+ .destino a {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #007bff;
+     color: #fff;
+     text-decoration: none;
+     border-radius: 5px;
+ }
+ 
+ .destino a:hover {
+     background-color: #0056b3;
+ }
+
+ /*Area do quem-somos*/
+
+ .link_nav1{
+    padding: 0;
+    text-align: center;
+}
+
+.navegadores_q{
+   padding: 0;
+   text-align: center;
+   position: absolute;
+   top: 22%;
+   right: 34%;
+}
+
+.navegadores_q li{
+    list-style: none;
+    display: inline-block;
+}
+
+.navegadores_q a{
+    background-color: cccc;
+    display: block;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.navegadores_q a:hover{
+    background-color: #378890;
+    color: white;
+}
+
+.texto{
+    text-align: center;
+}
+
+h1{
+    color: #378890;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 0px 10px;
+}
+
+.imagem_logo1{
+    padding: 0px 10px;
+}
+
